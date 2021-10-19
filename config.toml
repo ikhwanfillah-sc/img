@@ -1,0 +1,44 @@
+baseURL = "https://file.1.my.id"
+languageCode = "id-id"
+title = "1.my.id"
+MetaDataFormat = "yaml"
+themesDir = "themes"
+theme = "web"
+DefaultContentLanguage = "en"
+disableHugoGeneratorInject = "true"
+
+[params]
+  # Site Author
+  name = "1.my.id"
+  author = "1.my.id"
+  description = "berbagi ilmu pengetahuaan"
+  subtitle = "berbagi ilmu pengetahuaan"
+  favicon = ""
+  logo = ""
+
+[languages]
+  [languages.en]
+    languageName = "Indonesia"
+    languageCode = "id-id"
+
+# Biodata Author
+[author]
+    name = "1.my.id"
+    homepage = "https://1.my.id"
+    image = ""
+
+[taxonomies]
+    tag = "tags"
+
+[permalinks]
+    post = "/:slug/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[sitemap]
+  changefreq = "Always"
+  filename = "sitemap.xml"
+  priority = 1
