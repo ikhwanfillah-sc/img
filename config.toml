@@ -1,6 +1,6 @@
-baseURL = "https://file.1.my.id"
+baseURL = "https://file.tirinfo.com"
 languageCode = "id-id"
-title = "1.my.id"
+title = "tirinfo.com"
 MetaDataFormat = "yaml"
 themesDir = "themes"
 theme = "web"
@@ -9,8 +9,8 @@ disableHugoGeneratorInject = "true"
 
 [params]
   # Site Author
-  name = "1.my.id"
-  author = "1.my.id"
+  name = "tirinfo.com"
+  author = "tirinfo.com"
   description = "berbagi ilmu pengetahuaan"
   subtitle = "berbagi ilmu pengetahuaan"
   favicon = ""
@@ -23,8 +23,8 @@ disableHugoGeneratorInject = "true"
 
 # Biodata Author
 [author]
-    name = "1.my.id"
-    homepage = "https://1.my.id"
+    name = "tirinfo.com"
+    homepage = "https://tirinfo.com"
     image = ""
 
 [taxonomies]
