@@ -1,4 +1,3 @@
-//<![CDATA[
     var adsenseLazyload = false;
     window.addEventListener("scroll", function () {
       if ((document.documentElement.scrollTop != 0 && adsenseLazyload === false) || (document.body.scrollTop != 0 &&
@@ -16,4 +15,3 @@
         adsenseLazyload = true;
       }
     }, true)
-    //]]
