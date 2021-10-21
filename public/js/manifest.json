@@ -9,37 +9,37 @@
     "start_url": "https://tirinfo.com/",
     "icons": [
       {
-        "src": "https://file.tirinfo.com/img/icon/android-icon-72x72.png",
+        "src": "https://file.tirinfo.com/img/icon/icon-72x72.png",
         "sizes": "72x72",
         "type": "image/png"
       },
       {
-        "src": "https://file.tirinfo.com/img/icon/android-icon-96x96.png",
+        "src": "https://file.tirinfo.com/img/icon/icon-96x96.png",
         "sizes": "96x96",
         "type": "image/png"
       },
       {
-        "src": "https://file.tirinfo.com/img/icon/apple-icon-120x120.png",
+        "src": "https://file.tirinfo.com/img/icon/icon-120x120.png",
         "sizes": "120x120",
         "type": "image/png"
       },
       {
-        "src": "https://file.tirinfo.com/img/icon/apple-icon-144x144.png",
+        "src": "https://file.tirinfo.com/img/icon/icon-144x144.png",
         "sizes": "144x144",
         "type": "image/png"
       },
       {
-        "src": "https://file.tirinfo.com/img/icon/apple-icon-152x152.png",
+        "src": "https://file.tirinfo.com/img/icon/icon-152x152.png",
         "sizes": "152x152",
         "type": "image/png"
       },
       {
-        "src": "https://file.tirinfo.com/img/icon/android-icon-192x192.png",
+        "src": "https://file.tirinfo.com/img/icon/icon-192x192.png",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "https://file.tirinfo.com/img/icon/ms-icon-310x310.png",
+        "src": "https://file.tirinfo.com/img/icon/icon-310x310.png",
         "sizes": "310x310",
         "type": "image/png"
       }
