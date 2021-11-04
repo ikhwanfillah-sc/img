@@ -5,6 +5,10 @@
     <link>https://file.tirinfo.com/tags/</link>
     <description>Recent content in Tags on tirinfo.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>id-id</language><atom:link href="https://file.tirinfo.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>id-id</language>
+    
+	<atom:link href="https://file.tirinfo.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
